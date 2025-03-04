@@ -1,7 +1,0 @@
-D:\Project\ConsoleApp33\bin\Debug\ConsoleApp33.exe.config
-D:\Project\ConsoleApp33\bin\Debug\ConsoleApp33.exe
-D:\Project\ConsoleApp33\bin\Debug\ConsoleApp33.pdb
-D:\Project\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.AssemblyReference.cache
-D:\Project\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.CoreCompileInputs.cache
-D:\Project\ConsoleApp33\obj\Debug\ConsoleApp33.exe
-D:\Project\ConsoleApp33\obj\Debug\ConsoleApp33.pdb
