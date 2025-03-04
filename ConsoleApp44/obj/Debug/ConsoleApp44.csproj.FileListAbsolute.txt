@@ -1,0 +1,7 @@
+C:\Users\Maximmmd\source\repos\ConsoleApp44\obj\Debug\ConsoleApp44.csproj.AssemblyReference.cache
+C:\Users\Maximmmd\source\repos\ConsoleApp44\obj\Debug\ConsoleApp44.csproj.CoreCompileInputs.cache
+C:\Users\Maximmmd\source\repos\ConsoleApp44\bin\Debug\ConsoleApp44.exe.config
+C:\Users\Maximmmd\source\repos\ConsoleApp44\bin\Debug\ConsoleApp44.exe
+C:\Users\Maximmmd\source\repos\ConsoleApp44\bin\Debug\ConsoleApp44.pdb
+C:\Users\Maximmmd\source\repos\ConsoleApp44\obj\Debug\ConsoleApp44.exe
+C:\Users\Maximmmd\source\repos\ConsoleApp44\obj\Debug\ConsoleApp44.pdb
